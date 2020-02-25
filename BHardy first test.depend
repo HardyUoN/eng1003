@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582603818 source:u:\bhardy first test\main.c
+	<stdio.h>
+	<stdlib.h>
+
